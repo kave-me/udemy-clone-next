@@ -22,7 +22,7 @@ export default function CoursePage() {
           <div className="flex items-center flex-1">
             {/* Use a direct image instead of SVG */}
             <Image
-              src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
+              src="images/logo-udemy.svg"
               alt="Udemy"
               width={91}
               height={34}
@@ -398,7 +398,7 @@ export default function CoursePage() {
             <div>
               {/* Use direct image URL for Udemy logo in footer */}
               <Image
-                src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg"
+                src="/images/logo-udemy-inverted.svg"
                 alt="Udemy"
                 width={91}
                 height={32}

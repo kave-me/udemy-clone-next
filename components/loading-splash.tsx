@@ -21,7 +21,7 @@ export default function LoadingSplash() {
     <div className="fixed inset-0 bg-white z-50 flex flex-col items-center justify-center transition-opacity duration-500">
       <div className="w-24 h-24 relative mb-4">
         <Image
-          src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
+          src="images/logo-udemy.svg"
           alt="Udemy"
           fill
           className="object-contain"
